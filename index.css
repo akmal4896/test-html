@@ -28,6 +28,9 @@ html, body {
 
 .input1 {
     border-radius: 24px;
+    height: 29px;
+    width: 387px;
+    font-size: 16px;
 }
 
 .input2 {
