@@ -37,6 +37,6 @@ html, body {
     height: 100%;
 }
 
-.input2:hover {
+.input2 input:hover {
     cursor: pointer;
 }
