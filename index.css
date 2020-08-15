@@ -27,10 +27,10 @@ html, body {
 }
 
 .input1 {
-    bor
+    border-radius: 2px;
 }
 
-.input2{
+.input2 {
     height: 100%;
 }
 
